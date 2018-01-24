@@ -1,6 +1,6 @@
 # Euler-Projects from https://projecteuler.net/
 
-# IDE:InteliJ Ultimate
+# IDE: InteliJ Ultimate
 
 # Language : JAVA
 
