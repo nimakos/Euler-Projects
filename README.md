@@ -8,6 +8,8 @@
 
 Euler Projects that i have solved 
 
+------------------------------------------------------------
+
 Proj_1 = Find the multipliers of custom numbers
 
 Proj_2 = Fibonacci sequence
@@ -25,4 +27,6 @@ Proj_8 = Find a specific adjacent digit in the 1000-digit number
 Proj_11 = In a grid dimension array find the product of numbers
 
 Proj_13 = Find the sum of a Big Integer
+
+-----------------------------------------------------------
 
