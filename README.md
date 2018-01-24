@@ -1,5 +1,11 @@
 # Euler-Projects from https://projecteuler.net/
 
+# IDE:InteliJ Ultimate
+
+# Language : JAVA
+
+# console application
+
 Euler Projects that i have solved 
 
 Proj_1 = Find the multipliers of custom numbers
