@@ -4,7 +4,7 @@
 
 # Language : JAVA
 
-# console application
+# Console application
 
 Euler Projects that i have solved 
 
